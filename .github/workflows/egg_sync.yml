@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          node-version: '16'
   
       - name: Sync File
         env:
