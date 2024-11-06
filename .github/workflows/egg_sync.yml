@@ -17,7 +17,7 @@ jobs:
           REPO_URL: https://github.com/sparkssssssssss/epg.git
           REPO_BRANCH: main
           SOURCE_PATH: pp.xml.gz
-          DESTINATION_PATH: iptv/epg/pp.xml.gz
+          DESTINATION_PATH: baihy99/iptv/epg/pp.xml.gz
         run: |
           git clone --quiet $REPO_URL repo-tmp
           cp repo-tmp/$SOURCE_PATH $DESTINATION_PATH
