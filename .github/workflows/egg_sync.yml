@@ -16,7 +16,7 @@ jobs:
         env:
           REPO_URL: https://github.com/sparkssssssssss/epg.git
           REPO_BRANCH: main
-          SOURCE_PATH: epg/pp.xml.gz
+          SOURCE_PATH: pp.xml.gz
           DESTINATION_PATH: iptv/epg/e.xml.gz
         run: |
           git clone --quiet $REPO_URL repo-tmp
