@@ -1,28 +1,43 @@
-name: epg-sync
+name: Sync Epg from Source Repo
  
 on:
   push:
-    branches: [ main ]
-  schedule: 
+  schedule:
     - cron: '15 16,18,20,22,0,2,4,6,8,10,12,14 * * *'
  
 jobs:
-  copy-file:
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Epg Sync
-        uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v2
  
-      - name: Update Epg from Source Repository
-        env:
-          REPO_URL: https://github.com/sparkssssssssss/epg
-          REPO_BRANCH: main
-          SOURCE_PATH: sparkssssssssss/epg/pp.xml.gz
-          DESTINATION_PATH: iptv/epg/e.xml.gz
-        run: |
-          git clone --quiet $REPO_URL repo-tmp
-          cp repo-tmp/$SOURCE_PATH $DESTINATION_PATH
-          git add $DESTINATION_PATH
-          git commit -m "Update Epg from Source Repository"
-          git push --force --quiet "https://${{ secrets.GITHUB_TOKEN }}@${{ github.repository }}" HEAD:${{ github.ref }}
-        shell: bash
+    - name: Sync File
+      run: |
+        # 其他仓库的URL
+        OTHER_REPO_URL="https://github.com/sparkssssssssss/epg.git"
+        # 需要同步的文件或文件夹路径
+        FILE_PATH="epg/pp.xml.gz"
+        # 临时目录用于存放其他仓库的副本
+        TMP_DIR="$GITHUB_WORKSPACE/tmp"
+        # 克隆其他仓库
+        git clone $OTHER_REPO_URL $TMP_DIR
+ 
+        # 进入临时仓库目录
+        cd $TMP_DIR
+ 
+        # 获取特定文件
+        git checkout HEAD $FILE_PATH
+ 
+        # 回到主仓库目录
+        cd ..
+ 
+        # 将同步的文件移动到主仓库指定位置
+        mv $TMP_DIR/$FILE_PATH $GITHUB_WORKSPACE/baihy99/iptv/epg/e.xml.gz
+ 
+        # 提交更改
+        git add $GITHUB_WORKSPACE/baihy99/iptv/epg/e.xml.gz
+        git commit -m "Sync Epg from Source Repo"
+ 
+        # 推送更改到你的仓库
+        git push
