@@ -1,26 +1,22 @@
-name: Sync Epg from Source Repo
- 
+name: EPG Update
 on:
   push:
   schedule:
     - cron: '15 16,18,20,22,0,2,4,6,8,10,12,14 * * *'
- 
+
 jobs:
-  copy-file:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-  
-      - name: Sync File
-        env:
-          REPO_URL: https://github.com/sparkssssssssss/epg.git
-          REPO_BRANCH: main
-          SOURCE_PATH: pp.xml.gz
-          DESTINATION_PATH: baihy99/iptv/epg/pp.xml.gz
-        run: |
-          git clone --quiet $REPO_URL repo-tmp
-          cp repo-tmp/$SOURCE_PATH $DESTINATION_PATH
-          git add $DESTINATION_PATH
-          git commit -m "Sync Epg from Source Repo"
-          git push --force --quiet "https://${{ secrets.GITHUB_TOKEN }}@${{ github.repository }}" HEAD:${{ github.ref }}
+    - uses: actions/checkout@v4
+    - name: Update EPG Files
+      run: |
+        rm -f e.xml.gz && wget https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz -O e.xml.gz
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add e.xml.gz
+        git commit -m "EPG Automatic Update."
+    - name: Push changes
+      run: git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
