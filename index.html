@@ -1,8 +1,240 @@
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
     <meta charset="utf-8">
-  </head>
-  <body>
-    <h1>hello world</h1>
-  </body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV资源</title>
+    <style>
+        body {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f5f5f5;
+        }
+
+        tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        .source-link {
+            display: block;
+            padding: 10px;
+            background: #f5f5f5;
+            border-radius: 4px;
+            margin: 10px 0;
+            word-break: break-all;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .epg-source {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            border-bottom: 2px solid #f5f5f5;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+
+        h3 {
+            color: #333;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>IPTV资源</h1>
+        
+        <!-- EPG资源部分 -->
+        <h2>EPG资源</h2>
+        <div class="epg-source">
+            <h3>EPG源1</h3>
+            <p>来自sparkssssssssss</p>
+            <div class="source-link">XML格式：<a href="https://iptv.home-web.top/pp.xml">https://iptv.home-web.top/pp.xml</a></div>
+            <div class="source-link">GZ格式：<a href="https://iptv.home-web.top/pp.xml.gz">https://iptv.home-web.top/pp.xml.gz</a></div>
+
+            <h3>EPG源2</h3>
+            <p>来自https://epg.pw/</p>
+            <div class="source-link">XML格式：<a href="https://iptv.home-web.top/pw.xml">https://iptv.home-web.top/pw.xml</a></div>
+            <div class="source-link">GZ格式：<a href="https://iptv.home-web.top/pw.xml.gz">https://iptv.home-web.top/pw.xml.gz</a></div>
+        </div>
+
+        <!-- EPG频道列表部分 -->
+        <h2>EPG频道列表</h2>
+        <h3>EPG源1频道列表</h3>
+        <table>
+            <tr>
+                <th>序号</th>
+                <th>tv-id<br>(channel-id)</th>
+                <th>tv-name<br>(channel-name)</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>CCTV1</td>
+                <td>CCTV1</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>CCTV2</td>
+                <td>CCTV2</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>CCTV3</td>
+                <td>CCTV3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>CCTV4</td>
+                <td>CCTV4</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>CCTV5</td>
+                <td>CCTV5</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>CCTV5+</td>
+                <td>CCTV5+</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>CCTV6</td>
+                <td>CCTV6</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>CCTV7</td>
+                <td>CCTV7</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>CCTV8</td>
+                <td>CCTV8</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>CCTV9</td>
+                <td>CCTV9</td>
+            </tr>
+        </table>
+        <p>点此查看：<a href="https://iptv.home-web.top/html/channel_list_1.html">EPG源1完整频道列表</a></p>
+
+        <h3>EPG源2频道列表</h3>
+        <table>
+            <tr>
+                <th>序号</th>
+                <th>tv-id<br>(channel-id)</th>
+                <th>tv-name<br>(channel-name)</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>378819</td>
+                <td>CCTV1</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>378820</td>
+                <td>CCTV2</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>378821</td>
+                <td>CCTV3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>378822</td>
+                <td>CCTV4</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>378823</td>
+                <td>CCTV5</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>378824</td>
+                <td>CCTV5+</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>378825</td>
+                <td>CCTV6</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>378826</td>
+                <td>CCTV7</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>378827</td>
+                <td>CCTV8</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>378828</td>
+                <td>CCTV9</td>
+            </tr>
+        </table>
+        <p>点此查看：<a href="https://iptv.home-web.top/html/channel_list_2.html">EPG源2完整频道列表</a></p>
+
+        <!-- 直播源收集部分 -->
+        <h2>直播源收集</h2>
+        <h3>全球IPTV直播源</h3>
+        <div class="source-link">
+            <a href="https://iptv-org.github.io/iptv/index.m3u">https://iptv-org.github.io/iptv/index.m3u</a>
+        </div>
+
+        <h3>北京联通/北京移动直播源</h3>
+        <div class="source-link">
+            <a href="https://github.com/qwerttvv/Beijing-IPTV">https://github.com/qwerttvv/Beijing-IPTV</a>
+        </div>
+
+        <h3>浙江电信直播源</h3>
+        <div class="source-link">
+            <a href="https://github.com/c1pher-cn/iptv-hangzhou-dianxin">https://github.com/c1pher-cn/iptv-hangzhou-dianxin</a>
+        </div>
+
+        <h3>广东电信直播源</h3>
+        <div class="source-link">
+            <a href="https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List">https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List</a>
+        </div>
+    </div>
+</body>
 </html>
