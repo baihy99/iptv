@@ -1,23 +1,64 @@
-name: EPG Update
+name: EPG Sync
+
 on:
   push:
+    branches:
+      - main
   schedule:
-    - cron: '30 4,10,16,22 * * *'
+    - cron: '30 4,10,16,22 * * *'  # 每天在 4:30, 10:30, 16:30, 22:30 (UTC) 运行
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  build:
+  sync:
+    name: Sync EPG Files
     runs-on: ubuntu-latest
+    
     steps:
-    - uses: actions/checkout@v4
-    - name: Update EPG Files
-      run: |
-        rm -f e.xml e.xml.gz && wget https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml -O e.xml && \
-        wget https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz -O e.xml.gz
-        git config --local user.name "baihy99"
-        git config --local user.email "baihy99@users.noreply.github.com"
-        git add e.xml e.xml.gz
-        git commit -m "EPG Automatic Update."
-    - name: Push changes
-      run: git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Download EPG files
+        run: |
+          # 删除旧文件
+          rm -f pp.xml pp.xml.gz pw.xml pw.xml.gz
+          
+          # 下载 sparkssssssssss 的 EPG 文件
+          echo "Downloading sparkssssssssss EPG files..."
+          wget -q https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml -O pp.xml || exit 1
+          wget -q https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz -O pp.xml.gz || exit 1
+          
+          # 下载 epg.pw 的 EPG 文件
+          echo "Downloading epg.pw EPG files..."
+          wget -q https://epg.pw/xmltv/epg_CN.xml -O pw.xml || exit 1
+          wget -q https://epg.pw/xmltv/epg_CN.xml.gz -O pw.xml.gz || exit 1
+          
+          # 验证文件是否下载成功
+          for file in pp.xml pp.xml.gz pw.xml pw.xml.gz; do
+            if [ ! -s "$file" ]; then
+              echo "Error: $file is empty or not downloaded"
+              exit 1
+            fi
+          done
+          
+          echo "All EPG files downloaded successfully!"
+
+      - name: Commit and push changes
+        run: |
+          # 检查是否有文件变更
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          # 配置 Git
+          git config --local user.name "GitHub Actions Bot"
+          git config --local user.email "actions@github.com"
+          
+          # 提交变更
+          git add pp.xml pp.xml.gz pw.xml pw.xml.gz
+          git commit -m "chore: auto sync EPG files [skip ci]"
+          
+          # 推送变更
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
