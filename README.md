@@ -53,7 +53,7 @@
 ### 全球IPTV直播源
 [https://iptv-org.github.io/iptv/index.m3u](https://iptv-org.github.io/iptv/index.m3u)
 
-- **🇨🇳中国地区直播源** 
+- **🇨🇳中国地区直播源**  
   [https://iptv-org.github.io/iptv/countries/cn.m3u](https://iptv-org.github.io/iptv/countries/cn.m3u)
 
 - **中文Chinese直播源**  
