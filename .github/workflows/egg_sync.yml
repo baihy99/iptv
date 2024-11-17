@@ -44,11 +44,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # 检查是否有文件变更
-          if git diff --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
           
           # 配置 Git
           git config --local user.name "GitHub Actions Bot"
