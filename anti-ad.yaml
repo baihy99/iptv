@@ -1,0 +1,63 @@
+# (HTTP and SOCKS5 in one port)
+mixed-port: 7890
+
+# RESTful API for clash
+external-controller: 127.0.0.1:9090
+allow-lan: false
+mode: rule
+log-level: info
+
+dns:
+  enable: true
+  nameserver:
+    - https://223.5.5.5/dns-query
+    - https://doh.360.cn/dns-query
+    - https://1.12.12.12/dns-query
+    - 180.76.76.76
+    - 180.184.1.1
+    - 61.134.1.4
+    - 218.30.19.40
+  fallback:
+    - 223.5.5.5
+
+proxies:
+#  - {name: anti-ad, server: 1.1.1.1, port: 443, client-fingerprint: chrome, type: trojan, password: pwd, sni: www.cloudflare.com, skip-cert-verify: false}
+proxy-groups:
+
+rule-providers:
+  direct:
+    type: http
+    behavior: domain
+    url: "https://ghp.ci/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt"
+    path: ./ruleset/direct.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: "https://ghp.ci/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/private.txt"
+    path: ./ruleset/private.yaml
+    interval: 86400
+
+  applications:
+    type: http
+    behavior: classical
+    url: "https://ghp.ci/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/applications.txt"
+    path: ./ruleset/applications.yaml
+    interval: 86400
+
+  anti-AD:
+    type: http
+    behavior: domain
+    url: "https://anti-ad.net/clash.yaml"
+    path: ./ruleset/anti-AD.yaml
+    interval: 86400
+
+rules:
+  - RULE-SET,direct,DIRECT
+  - RULE-SET,private,DIRECT
+  - RULE-SET,applications,DIRECT
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - RULE-SET,anti-AD,REJECT
+  - MATCH,DIRECT
