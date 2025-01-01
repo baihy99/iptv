@@ -16,35 +16,35 @@
 
 ### EPG源1频道列表
 
-| 序号 | tv-id (channel-id) | tv-name (channel-name) |
-|:---:|:-------------------:|:---------------------:|
-| 1 | CCTV1 | CCTV1 |
-| 2 | CCTV2 | CCTV2 |
-| 3 | CCTV3 | CCTV3 |
-| 4 | CCTV4 | CCTV4 |
-| 5 | CCTV5 | CCTV5 |
-| 6 | CCTV6 | CCTV6 |
-| 7 | CCTV7 | CCTV7 |
-| 8 | CCTV8 | CCTV8 |
-| 9 | CCTV9 | CCTV9 |
-| 10 | CCTV10 | CCTV10 |
+| 序号 | tv-id (channel-id) | tv-name (channel-name) | tv-logo |
+|:---:|:-------------------:|:---------------------:|:-----------------------:|
+| 1 | CCTV1 | CCTV1 | https://iptv.home-web.top/logo/CCTV1.png |
+| 2 | CCTV2 | CCTV2 | https://iptv.home-web.top/logo/CCTV2.png |
+| 3 | CCTV3 | CCTV3 | https://iptv.home-web.top/logo/CCTV3.png |
+| 4 | CCTV4 | CCTV4 | https://iptv.home-web.top/logo/CCTV4.png |
+| 5 | CCTV5 | CCTV5 | https://iptv.home-web.top/logo/CCTV5.png |
+| 6 | CCTV5+ | CCTV5+ | https://iptv.home-web.top/logo/CCTV5+.png |
+| 7 | CCTV6 | CCTV6 | https://iptv.home-web.top/logo/CCTV6.png |
+| 8 | CCTV7 | CCTV7 | https://iptv.home-web.top/logo/CCTV7.png |
+| 9 | CCTV8 | CCTV8 | https://iptv.home-web.top/logo/CCTV8.png |
+| 10 | CCTV9 | CCTV9 | https://iptv.home-web.top/logo/CCTV9.png |
 
 [查看完整频道列表 →](https://iptv.home-web.top/html/channel_list_1.html)
 
 ### EPG源2频道列表
 
-| 序号 | tv-id (channel-id) | tv-name (channel-name) |
-|:---:|:-------------------:|:---------------------:|
-| 1 | 378819 | CCTV1 |
-| 2 | 378820 | CCTV2 |
-| 3 | 378821 | CCTV3 |
-| 4 | 378822 | CCTV4 |
-| 5 | 378823 | CCTV5 |
-| 6 | 378824 | CCTV6 |
-| 7 | 378825 | CCTV7 |
-| 8 | 378826 | CCTV8 |
-| 9 | 378827 | CCTV9 |
-| 10 | 378829 | CCTV10 |
+| 序号 | tv-id (channel-id) | tv-name (channel-name) | tv-logo |
+|:---:|:-------------------:|:---------------------:|:-----------------------:|
+| 1 | 378819 | CCTV1 | https://iptv.home-web.top/logo/CCTV1.png |
+| 2 | 378820 | CCTV2 | https://iptv.home-web.top/logo/CCTV2.png |
+| 3 | 378821 | CCTV3 | https://iptv.home-web.top/logo/CCTV3.png |
+| 4 | 378822 | CCTV4 | https://iptv.home-web.top/logo/CCTV4.png |
+| 5 | 378823 | CCTV5 | https://iptv.home-web.top/logo/CCTV5.png |
+| 6 | 378824 | CCTV5+ | https://iptv.home-web.top/logo/CCTV5+.png |
+| 7 | 378825 | CCTV6 | https://iptv.home-web.top/logo/CCTV6.png |
+| 8 | 378826 | CCTV7 | https://iptv.home-web.top/logo/CCTV7.png |
+| 9 | 378827 | CCTV8 | https://iptv.home-web.top/logo/CCTV8.png |
+| 10 | 378828 | CCTV9 | https://iptv.home-web.top/logo/CCTV9.png |
 
 [查看完整频道列表 →](https://iptv.home-web.top/html/channel_list_2.html)
 
