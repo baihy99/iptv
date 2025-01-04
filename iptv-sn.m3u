@@ -1,0 +1,166 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"  tvg-logo="https://iptv.home-web.top/logo/CCTV1.png" group-title="央视频道",CCTV1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"  tvg-logo="https://iptv.home-web.top/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3"  tvg-logo="https://iptv.home-web.top/logo/CCTV3.png" group-title="央视频道",CCTV3
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4"  tvg-logo="https://iptv.home-web.top/logo/CCTV4.png" group-title="央视频道",CCTV4
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5"  tvg-logo="https://iptv.home-web.top/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+"  tvg-logo="https://iptv.home-web.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6"  tvg-logo="https://iptv.home-web.top/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7"  tvg-logo="https://iptv.home-web.top/logo/CCTV7.png" group-title="央视频道",CCTV7
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8"  tvg-logo="https://iptv.home-web.top/logo/CCTV8.png" group-title="央视频道",CCTV8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9"  tvg-logo="https://iptv.home-web.top/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10"  tvg-logo="https://iptv.home-web.top/logo/CCTV10.png" group-title="央视频道",CCTV10
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11"  tvg-logo="https://iptv.home-web.top/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12"  tvg-logo="https://iptv.home-web.top/logo/CCTV12.png" group-title="央视频道",CCTV12
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13"  tvg-logo="https://iptv.home-web.top/logo/CCTV13.png" group-title="央视频道",CCTV13
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14"  tvg-logo="https://iptv.home-web.top/logo/CCTV14.png" group-title="央视频道",CCTV14
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15"  tvg-logo="https://iptv.home-web.top/logo/CCTV15.png" group-title="央视频道",CCTV15
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16"  tvg-logo="https://iptv.home-web.top/logo/CCTV16.png" group-title="央视频道",CCTV16
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17"  tvg-logo="https://iptv.home-web.top/logo/CCTV17.png" group-title="央视频道",CCTV17
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
+
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影"  tvg-logo="https://iptv.home-web.top/logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影"  tvg-logo="https://iptv.home-web.top/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院"  tvg-logo="https://iptv.home-web.top/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视"  tvg-logo="https://iptv.home-web.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视"  tvg-logo="https://iptv.home-web.top/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视"  tvg-logo="https://iptv.home-web.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视"  tvg-logo="https://iptv.home-web.top/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视"  tvg-logo="https://iptv.home-web.top/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视"  tvg-logo="https://iptv.home-web.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视"  tvg-logo="https://iptv.home-web.top/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视"  tvg-logo="https://iptv.home-web.top/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视"  tvg-logo="https://iptv.home-web.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视"  tvg-logo="https://iptv.home-web.top/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视"  tvg-logo="https://iptv.home-web.top/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视"  tvg-logo="https://iptv.home-web.top/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视"  tvg-logo="https://iptv.home-web.top/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视"  tvg-logo="https://iptv.home-web.top/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视"  tvg-logo="https://iptv.home-web.top/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场"  tvg-logo="https://iptv.home-web.top/logo/第一剧场.png" group-title="央视其他",CCTV第一剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场"  tvg-logo="https://iptv.home-web.top/logo/风云剧场.png" group-title="央视其他",CCTV风云剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场"  tvg-logo="https://iptv.home-web.top/logo/怀旧剧场.png" group-title="央视其他",CCTV怀旧剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理"  tvg-logo="https://iptv.home-web.top/logo/世界地理.png" group-title="央视其他",CCTV世界地理
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品"  tvg-logo="https://iptv.home-web.top/logo/文化精品.png" group-title="央视其他",CCTV央视文化精品
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐"  tvg-logo="https://iptv.home-web.top/logo/风云音乐.png" group-title="央视其他",CCTV风云音乐
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技"  tvg-logo="https://iptv.home-web.top/logo/兵器科技.png" group-title="央视其他",CCTV兵器科技
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球"  tvg-logo="https://iptv.home-web.top/logo/风云足球.png" group-title="央视其他",CCTV风云足球
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球"  tvg-logo="https://iptv.home-web.top/logo/央视高网.png" group-title="央视其他",CCTV高尔夫·网球
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球"  tvg-logo="https://iptv.home-web.top/logo/央视台球.png" group-title="央视其他",CCTV央视台球
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚"  tvg-logo="https://iptv.home-web.top/logo/女性时尚.png" group-title="央视其他",CCTV女性时尚
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南"  tvg-logo="https://iptv.home-web.top/logo/电视指南.png" group-title="央视其他",CCTV电视指南
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
+
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教"  tvg-logo="https://iptv.home-web.top/logo/北京纪实科教.png" group-title="纪实频道",纪实科教
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/index.m3u8
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文"  tvg-logo="https://iptv.home-web.top/logo/上海纪实人文.png" group-title="纪实频道",纪实人文
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实"  tvg-logo="https://iptv.home-web.top/logo/金鹰纪实.png" group-title="纪实频道",金鹰纪实
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文	" tvg-name="凤凰中文"  tvg-logo="https://iptv.home-web.top/logo/凤凰卫视中文台.png" group-title="凤凰频道",凤凰中文台
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯"  tvg-logo="https://iptv.home-web.top/logo/凤凰卫视资讯台.png" group-title="凤凰频道",凤凰资讯台
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+
+#EXTINF:-1 tvg-id="256" tvg-name="陕西新闻资讯"  tvg-logo="https://iptv.home-web.top/logo//陕西新闻资讯.png" group-title="地方频道",陕西新闻资讯
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
+#EXTINF:-1 tvg-id="257" tvg-name="陕西都市青春"  tvg-logo="https://iptv.home-web.top/logo//陕西都市青春.png" group-title="地方频道",陕西都市青春
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
+#EXTINF:-1 tvg-id="260" tvg-name="陕西体育休闲"  tvg-logo="https://iptv.home-web.top/logo//陕西体育休闲.png" group-title="地方频道",陕西体育休闲
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
+#EXTINF:-1 tvg-id="陕西七套" tvg-name="陕西七套"  tvg-logo="https://iptv.home-web.top/logo/陕西西部电影.png" group-title="地方频道",陕西西部电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/hanzhong1.png" group-title="地方频道",汉中1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/hanzhong2.png" group-title="地方频道",汉中2
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/hanzhong3.png" group-title="地方频道",汉中3
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/chenggu.png" group-title="地方频道",城固
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/yangxian.png" group-title="地方频道",洋县
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/xixiang.png" group-title="地方频道",西乡
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/foping.png" group-title="地方频道",佛坪
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/xianyang.png" group-title="地方频道",咸阳综合
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/yulin.png" group-title="地方频道",榆林1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/shangluo.png" group-title="地方频道",商洛1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
+
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场"  tvg-logo="https://iptv.home-web.top/logo/欢笑剧场.png" group-title="娱乐频道",欢笑剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游"  tvg-logo="https://iptv.home-web.top/logo/乐游.png" group-title="娱乐频道",乐游
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经"  tvg-logo="https://iptv.home-web.top/logo/上海第一财经.png" group-title="娱乐频道",第一财经
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8
+#EXTINF:-1 tvg-id="茶" tvg-name="茶"  tvg-logo="https://iptv.home-web.top/logo/茶.png" group-title="娱乐频道",湖南茶频道
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓"  tvg-logo="https://iptv.home-web.top/logo/快乐垂钓.png" group-title="娱乐频道",湖南快乐垂钓
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/index.m3u8
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云"  tvg-logo="https://iptv.home-web.top/logo/游戏风云.png" group-title="娱乐频道",游戏风云
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场"  tvg-logo="https://iptv.home-web.top/logo/都市剧场.png" group-title="娱乐频道",City都市剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂"  tvg-logo="https://iptv.home-web.top/logo/金色学堂.png" group-title="娱乐频道",金色学堂
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
+#EXTINF:-1 ,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="" group-title="娱乐频道",精彩综艺
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞"  tvg-logo="https://iptv.home-web.top/logo/哒啵电竞.png" group-title="娱乐频道",哒啵电竞
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事"  tvg-logo="https://iptv.home-web.top/logo/哒啵赛事.png" group-title="娱乐频道",哒啵赛事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
+#EXTINF:-1 tvg-id="爱看导视" tvg-name="爱看导视"  tvg-logo="https://iptv.home-web.top/logo/爱看导视.png" group-title="娱乐频道",爱看导视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
