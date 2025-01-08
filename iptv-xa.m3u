@@ -101,7 +101,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226987/index.m3u8
 
 #EXTINF:-1 ,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://iptv.home-web.top/logo/纪实人文.png" group-title="纪实频道",纪实人文
 http://111.20.33.70/PLTV/88888893/224/3221226230/index.m3u8
-#EXTINF:-1 ,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://iptv.home-web.top/logo/北京体育休闲.png" group-title="纪实频道",纪实科教
+#EXTINF:-1 ,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://iptv.home-web.top/logo/北京纪实科教.png" group-title="纪实频道",纪实科教
 http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
 #EXTINF:-1 ,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://iptv.home-web.top/logo/金鹰纪实.png" group-title="纪实频道",金鹰纪实
 http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
@@ -132,29 +132,29 @@ http://111.20.33.70/PLTV/88888893/224/3221226579/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226357/index.m3u8
 #EXTINF:-1 ,tvg-id="陕西都市青春" tvg-name="陕西都市青春" tvg-logo="https://iptv.home-web.top/logo/陕西都市青春.png" group-title="地方频道",陕西-都市青春
 http://111.20.33.70/PLTV/88888893/224/3221226358/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/hanzhong1.png" group-title="地方频道",汉中-综合频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/汉中.png" group-title="地方频道",汉中-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226331/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/xianyang.png" group-title="地方频道",咸阳-综合频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/咸阳.png" group-title="地方频道",咸阳-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226372/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",渭南-新闻综合
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/渭南.png" group-title="地方频道",渭南-新闻综合
 http://111.20.33.70/PLTV/88888893/224/3221226376/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/yulin.png" group-title="地方频道",榆林-综合频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/榆林.png" group-title="地方频道",榆林-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226377/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/shangluo.png" group-title="地方频道",商洛-综合频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/商洛.png" group-title="地方频道",商洛-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226378/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",宝鸡-综合频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/宝鸡.png" group-title="地方频道",宝鸡-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226383/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",安康-综合频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/安康.png" group-title="地方频道",安康-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226385/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/hanzhong2.png" group-title="地方频道",汉中-公共频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/汉中.png" group-title="地方频道",汉中-公共频道
 http://111.20.33.70/PLTV/88888893/224/3221225990/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/hanzhong3.png" group-title="地方频道",汉中-教育频道
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/汉中.png" group-title="地方频道",汉中-教育频道
 http://111.20.33.70/PLTV/88888893/224/3221225991/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/xixiang.png" group-title="地方频道",西乡
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/西乡.png" group-title="地方频道",西乡
 http://111.20.33.70/PLTV/88888893/224/3221226556/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/chenggu.png" group-title="地方频道",城固
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/城固.png" group-title="地方频道",城固
 http://111.20.33.70/PLTV/88888893/224/3221226920/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://gitee.com/huaiyubai/iptv/raw/master/tvlogo/yangxian.png" group-title="地方频道",洋县
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/洋县.png" group-title="地方频道",洋县
 http://111.20.33.70/PLTV/88888893/224/3221226938/index.m3u8
 #EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",导视
 http://111.20.33.70/PLTV/88888893/224/3221226337/index.m3u8
