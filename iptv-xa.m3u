@@ -136,7 +136,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226358/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221227111/index.m3u8
 #EXTINF:-1 ,tvg-id="陕西八套" tvg-name="陕西八套" tvg-logo="https://iptv.home-web.top/logo/陕西西部电影.png" group-title="地方频道",陕西-西部电影
 http://111.20.33.70/PLTV/88888893/224/3221227091/index.m3u8
-#EXTINF:-1 ,tvg-id="陕西秦腔" tvg-name="陕西秦腔" tvg-logo="https://iptv.home-web.top/logo/shanxi.png" group-title="地方频道",陕西-秦腔
+#EXTINF:-1 ,tvg-id="陕西秦腔" tvg-name="陕西秦腔" tvg-logo="https://iptv.home-web.top/logo/陕西秦腔.png" group-title="地方频道",陕西-秦腔
 http://111.20.33.70/PLTV/88888893/224/3221227125/index.m3u8
 #EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="https://iptv.home-web.top/logo/汉中.png" group-title="地方频道",汉中-综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226331/index.m3u8
