@@ -73,6 +73,8 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视"  tvg-logo="https://iptv.home-web.top/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视"  tvg-logo="https://iptv.home-web.top/logo/农林卫视.png" group-title="卫视频道",农林卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/index.m3u8
 
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场"  tvg-logo="https://iptv.home-web.top/logo/第一剧场.png" group-title="央视其他",CCTV第一剧场
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
@@ -119,7 +121,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套"  tvg-logo="https://iptv.home-web.top/logo/陕西西部电影.png" group-title="地方频道",陕西西部电影
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
-#EXTINF:-1 ,tvg-id="陕西秦腔" tvg-name="陕西秦腔" tvg-logo="https://iptv.home-web.top/logo/陕西秦腔.png" group-title="地方频道",陕西-秦腔
+#EXTINF:-1 ,tvg-id="陕西秦腔" tvg-name="陕西秦腔" tvg-logo="https://iptv.home-web.top/logo/陕西秦腔.png" group-title="地方频道",陕西秦腔
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/汉中.png" group-title="地方频道",汉中1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
@@ -141,6 +143,12 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/商洛.png" group-title="地方频道",商洛1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/渭南.png" group-title="地方频道",渭南1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/宝鸡.png" group-title="地方频道",宝鸡1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/宝鸡.png" group-title="地方频道",安康1
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
 
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场"  tvg-logo="https://iptv.home-web.top/logo/欢笑剧场.png" group-title="娱乐频道",欢笑剧场
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
