@@ -147,7 +147,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/宝鸡.png" group-title="地方频道",宝鸡1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/宝鸡.png" group-title="地方频道",安康1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://iptv.home-web.top/logo/安康.png" group-title="地方频道",安康1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
 
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场"  tvg-logo="https://iptv.home-web.top/logo/欢笑剧场.png" group-title="娱乐频道",欢笑剧场
