@@ -24,13 +24,13 @@ jobs:
           
           # 下载 sparkssssssssss 的 EPG 文件
           echo "Downloading sparkssssssssss EPG files..."
-          wget -q https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml -O pp.xml || exit 1
-          wget -q https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz -O pp.xml.gz || exit 1
+          wget -q https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml -O pp.xml || { echo "Failed to download pp.xml"; exit 1; }
+          wget -q https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz -O pp.xml.gz || { echo "Failed to download pp.xml.gz"; exit 1; }
           
           # 下载 epg.pw 的 EPG 文件
           echo "Downloading epg.pw EPG files..."
-          wget -q https://epg.pw/xmltv/epg_CN.xml -O pw.xml || exit 1
-          wget -q https://epg.pw/xmltv/epg_CN.xml.gz -O pw.xml.gz || exit 1
+          wget -q https://epg.pw/xmltv/epg_CN.xml -O pw.xml || { echo "Failed to download pw.xml"; exit 1; }
+          wget -q https://epg.pw/xmltv/epg_CN.xml.gz -O pw.xml.gz || { echo "Failed to download pw.xml.gz"; exit 1; }
           
           # 验证文件是否下载成功
           for file in pp.xml pp.xml.gz pw.xml pw.xml.gz; do
