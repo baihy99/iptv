@@ -179,7 +179,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂"  tvg-logo="https://iptv.ivow.win/logo/金色学堂.png" group-title="娱乐频道",金色学堂
 #http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
-#EXTINF:-1 ,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="" group-title="娱乐频道",精彩综艺
+#EXTINF:-1 tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="" group-title="娱乐频道",精彩综艺
 #http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞"  tvg-logo="https://iptv.ivow.win/logo/哒啵电竞.png" group-title="娱乐频道",哒啵电竞
 #http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
