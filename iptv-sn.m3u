@@ -111,7 +111,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南"  tvg-logo="https://iptv.ivow.win/logo/电视指南.png" group-title="央视其他",CCTV电视指南
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文	" tvg-name="凤凰中文"  tvg-logo="https://iptv.ivow.win/logo/凤凰卫视中文台.png" group-title="凤凰频道",凤凰中文台
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文"  tvg-logo="https://iptv.ivow.win/logo/凤凰卫视中文台.png" group-title="凤凰频道",凤凰中文台
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯"  tvg-logo="https://iptv.ivow.win/logo/凤凰卫视资讯台.png" group-title="凤凰频道",凤凰资讯台
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
@@ -124,9 +124,9 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套"  tvg-logo="https://iptv.ivow.win/logo/陕西西部电影.png" group-title="地方频道",陕西西部电影
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
-#EXTINF:-1 ,tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://iptv.ivow.win/logo/陕西秦腔.png" group-title="地方频道",陕西秦腔
+#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://iptv.ivow.win/logo/陕西秦腔.png" group-title="地方频道",陕西秦腔
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
-#EXTINF:-1 ,tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://iptv.ivow.win/logo/陕西秦腔.png" group-title="地方频道",陕西银龄
+#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://iptv.ivow.win/logo/陕西秦腔.png" group-title="地方频道",陕西银龄
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
 #EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合"  tvg-logo="https://iptv.ivow.win/logo/西安新闻综合.png" group-title="地方频道",西安新闻综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
