@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv.ivow.win/pp.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"  tvg-logo="https://iptv.ivow.win/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"  tvg-logo="https://iptv.ivow.win/logo/CCTV2.png" group-title="央视频道",CCTV2
