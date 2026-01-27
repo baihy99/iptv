@@ -3,50 +3,50 @@
 ## EPG资源
 
 ### EPG源1
-- 来源：sparkssssssssss
-- XML格式：[https://iptv.ivow.win/pp.xml](https://iptv.ivow.win/pp.xml)
-- GZ格式：[https://iptv.ivow.win/pp.xml.gz](https://iptv.ivow.win/pp.xml.gz)
+- 来源：[https://e.erw.cc/](https://e.erw.cc/)
+- XML格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml](https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml)
+- GZ格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml.gz](https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml.gz)
 
 ### EPG源2
 - 来源：[https://epg.pw/](https://epg.pw/)
-- XML格式：[https://iptv.ivow.win/pw.xml](https://iptv.ivow.win/pw.xml)
-- GZ格式：[https://iptv.ivow.win/pw.xml.gz](https://iptv.ivow.win/pw.xml.gz)
+- XML格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml](https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml)
+- GZ格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml.gz](https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml.gz)
 
 ## EPG频道列表
 
 ### EPG源1频道列表
 
-| 序号 | tv-id (channel-id) | tv-name (channel-name) | tv-logo |
+| 序号 | channel-id | channel-name | tv-logo |
 |:---:|:-------------------:|:---------------------:|:-----------------------:|
-| 1 | CCTV1 | CCTV1 | https://iptv.ivow.win/logo/CCTV1.png |
-| 2 | CCTV2 | CCTV2 | https://iptv.ivow.win/logo/CCTV2.png |
-| 3 | CCTV3 | CCTV3 | https://iptv.ivow.win/logo/CCTV3.png |
-| 4 | CCTV4 | CCTV4 | https://iptv.ivow.win/logo/CCTV4.png |
-| 5 | CCTV5 | CCTV5 | https://iptv.ivow.win/logo/CCTV5.png |
-| 6 | CCTV5+ | CCTV5+ | https://iptv.ivow.win/logo/CCTV5+.png |
-| 7 | CCTV6 | CCTV6 | https://iptv.ivow.win/logo/CCTV6.png |
-| 8 | CCTV7 | CCTV7 | https://iptv.ivow.win/logo/CCTV7.png |
-| 9 | CCTV8 | CCTV8 | https://iptv.ivow.win/logo/CCTV8.png |
-| 10 | CCTV9 | CCTV9 | https://iptv.ivow.win/logo/CCTV9.png |
+| 1 | 1 | CCTV1 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV1.png |
+| 2 | 2 | CCTV2 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV2.png |
+| 3 | 3 | CCTV3 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV3.png |
+| 4 | 4 | CCTV4 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV4.png |
+| 5 | 5 | CCTV5 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5.png |
+| 6 | 6 | CCTV5+ | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5+.png |
+| 7 | 7 | CCTV6 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV6.png |
+| 8 | 8 | CCTV7 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV7.png |
+| 9 | 9 | CCTV8 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV8.png |
+| 10 | 10 | CCTV9 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV9.png |
 
-[查看完整频道列表 →](https://iptv.ivow.win/html/channel_list_1.html)
+[查看EPG源1完整频道列表 →](html/channel-list-1)
 
 ### EPG源2频道列表
 
-| 序号 | tv-id (channel-id) | tv-name (channel-name) | tv-logo |
+| 序号 | channel-id | channel-name | tv-logo |
 |:---:|:-------------------:|:---------------------:|:-----------------------:|
-| 1 | 378819 | CCTV1 | https://iptv.ivow.win/logo/CCTV1.png |
-| 2 | 378820 | CCTV2 | https://iptv.ivow.win/logo/CCTV2.png |
-| 3 | 378821 | CCTV3 | https://iptv.ivow.win/logo/CCTV3.png |
-| 4 | 378822 | CCTV4 | https://iptv.ivow.win/logo/CCTV4.png |
-| 5 | 378823 | CCTV5 | https://iptv.ivow.win/logo/CCTV5.png |
-| 6 | 378824 | CCTV5+ | https://iptv.ivow.win/logo/CCTV5+.png |
-| 7 | 378825 | CCTV6 | https://iptv.ivow.win/logo/CCTV6.png |
-| 8 | 378826 | CCTV7 | https://iptv.ivow.win/logo/CCTV7.png |
-| 9 | 378827 | CCTV8 | https://iptv.ivow.win/logo/CCTV8.png |
-| 10 | 378828 | CCTV9 | https://iptv.ivow.win/logo/CCTV9.png |
+| 1 | 378819 | CCTV1 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV1.png |
+| 2 | 378820 | CCTV2 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV2.png |
+| 3 | 378821 | CCTV3 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV3.png |
+| 4 | 378822 | CCTV4 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV4.png |
+| 5 | 378823 | CCTV5 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5.png |
+| 6 | 378824 | CCTV5+ | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5+.png |
+| 7 | 378825 | CCTV6 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV6.png |
+| 8 | 378826 | CCTV7 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV7.png |
+| 9 | 378827 | CCTV8 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV8.png |
+| 10 | 378828 | CCTV9 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV9.png |
 
-[查看完整频道列表 →](https://iptv.ivow.win/html/channel_list_2.html)
+[查看EPG源2完整频道列表 →](html/channel-list-2)
 
 ## 直播源收集
 
