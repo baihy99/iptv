@@ -29,7 +29,7 @@
 | 9 | 9 | CCTV8 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV8.png |
 | 10 | 10 | CCTV9 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV9.png |
 
-[查看EPG源1完整频道列表 →](html/channel-list-1)
+[查看EPG源1完整频道列表 →](html/channel-list-1.html)
 
 ### EPG源2频道列表
 
@@ -46,7 +46,7 @@
 | 9 | 378827 | CCTV8 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV8.png |
 | 10 | 378828 | CCTV9 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV9.png |
 
-[查看EPG源2完整频道列表 →](html/channel-list-2)
+[查看EPG源2完整频道列表 →](html/channel-list-2.html)
 
 ## 直播源收集
 
