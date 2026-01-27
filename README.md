@@ -2,12 +2,12 @@
 
 ## EPG资源
 
-### EPG源1
+### EPG源1（141个频道）
 - 来源：[https://e.erw.cc/](https://e.erw.cc/)
 - XML格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml](https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml)
 - GZ格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml.gz](https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml.gz)
 
-### EPG源2
+### EPG源2（188个频道）
 - 来源：[https://epg.pw/](https://epg.pw/)
 - XML格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml](https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml)
 - GZ格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml.gz](https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml.gz)
