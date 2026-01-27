@@ -1,0 +1,6 @@
+# 关键配置：移除所有页面的.html扩展名
+permalink: /:title
+# 可选：指定Jekyll版本（避免GitHub Pages编译警告）
+jekyll_version: 3.9.3
+# 可选：关闭Jekyll的文章功能（纯静态网页无需）
+show_drafts: false
