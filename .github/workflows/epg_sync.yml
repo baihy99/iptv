@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 4,10,16,22 * * *'  # 每天在 4:30, 10:30, 16:30, 22:30 (UTC) 运行
+    - cron: '30 3,7,17 * * *'  # 每天在 11:30, 15:30, 1:30 (UTC+8) 运行
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -22,10 +22,10 @@ jobs:
           # 删除旧文件
           rm -f pp.xml pp.xml.gz pw.xml pw.xml.gz
           
-          # 下载 sparkssssssssss 的 EPG 文件
-          echo "Downloading sparkssssssssss EPG files..."
-          wget -q https://epg.112114.xyz/pp.xml -O pp.xml || { echo "Failed to download pp.xml"; exit 1; }
-          wget -q https://epg.112114.xyz/pp.xml.gz -O pp.xml.gz || { echo "Failed to download pp.xml.gz"; exit 1; }
+          # 下载 erw.cc 的 EPG 文件
+          echo "Downloading erw.cc EPG files..."
+          wget -q http://e.erw.cc/cc.xml -O pp.xml || { echo "Failed to download pp.xml"; exit 1; }
+          wget -q https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz -O pp.xml.gz || { echo "Failed to download pp.xml.gz"; exit 1; }
           
           # 下载 epg.pw 的 EPG 文件
           echo "Downloading epg.pw EPG files..."
