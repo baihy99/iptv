@@ -966,7 +966,7 @@
 <display-name lang="zh">CCTV9</display-name>
 </channel>
 <programme start="20260205000000 +0800" stop="20260205003100 +0800" channel="10">
-<title lang="zh">大猫传奇(3)</title>
+<title lang="zh">开始</title>
 </programme>
 <programme start="20260205003100 +0800" stop="20260205012700 +0800" channel="10">
 <title lang="zh">非洲生命奇境(1)</title>
@@ -990,7 +990,7 @@
 <title lang="zh">海边有片红树林(3)</title>
 </programme>
 <programme start="20260205044600 +0800" stop="20260205054600 +0800" channel="10">
-<title lang="zh">故事中国(30)</title>
+<title lang="zh">自然的力量(3)</title>
 </programme>
 <programme start="20260205054600 +0800" stop="20260205064700 +0800" channel="10">
 <title lang="zh">非洲生命奇境(1)</title>
@@ -1029,7 +1029,7 @@
 <title lang="zh">非洲生命奇境(2)</title>
 </programme>
 <programme start="20260205153000 +0800" stop="20260205162900 +0800" channel="10">
-<title lang="zh">故事中国(30)</title>
+<title lang="zh">自然的力量(3)</title>
 </programme>
 <programme start="20260205162900 +0800" stop="20260205172800 +0800" channel="10">
 <title lang="zh">大猫传奇(3)</title>
@@ -8087,11 +8087,8 @@
 <channel id="109">
 <display-name lang="zh">山西卫视</display-name>
 </channel>
-<programme start="20260205000000 +0800" stop="20260205010900 +0800" channel="109">
-<title lang="zh">三国</title>
-</programme>
-<programme start="20260205010900 +0800" stop="20260205020000 +0800" channel="109">
-<title lang="zh">三国</title>
+<programme start="20260205000000 +0800" stop="20260205020000 +0800" channel="109">
+<title lang="zh">开始</title>
 </programme>
 <programme start="20260205020000 +0800" stop="20260205040000 +0800" channel="109">
 <title lang="zh">经典电影</title>
@@ -8111,16 +8108,19 @@
 <programme start="20260205070100 +0800" stop="20260205080000 +0800" channel="109">
 <title lang="zh">山西新闻联播</title>
 </programme>
-<programme start="20260205080000 +0800" stop="20260205081000 +0800" channel="109">
+<programme start="20260205080000 +0800" stop="20260205081700 +0800" channel="109">
 <title lang="zh">山西新闻联播</title>
 </programme>
-<programme start="20260205081000 +0800" stop="20260205084000 +0800" channel="109">
+<programme start="20260205081700 +0800" stop="20260205083500 +0800" channel="109">
+<title lang="zh">走进大戏台</title>
+</programme>
+<programme start="20260205083500 +0800" stop="20260205085800 +0800" channel="109">
 <title lang="zh">动画片</title>
 </programme>
-<programme start="20260205084000 +0800" stop="20260205120000 +0800" channel="109">
+<programme start="20260205085800 +0800" stop="20260205121800 +0800" channel="109">
 <title lang="zh">经典电影</title>
 </programme>
-<programme start="20260205120000 +0800" stop="20260205123000 +0800" channel="109">
+<programme start="20260205121800 +0800" stop="20260205123000 +0800" channel="109">
 <title lang="zh">经典电影</title>
 </programme>
 <programme start="20260205123000 +0800" stop="20260205125500 +0800" channel="109">
