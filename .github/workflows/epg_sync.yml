@@ -5,34 +5,39 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 3,7,17 * * *'  # 每天在 11:30, 15:30, 1:30 (UTC+8) 运行
-  workflow_dispatch:  # 允许手动触发
+    - cron: '30 3,17 * * *'
 
 jobs:
-  sync:
+  sync-epg-files:
     name: Sync EPG Files
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Download EPG files
         run: |
-          # 删除旧文件
+          # Remove existing epg files
           rm -f pp.xml pp.xml.gz pw.xml pw.xml.gz
-          
-          # 下载 erw.cc 的 EPG 文件
+
+          # Downloading erw.cc EPG files
           echo "Downloading erw.cc EPG files..."
-          wget -q http://e.erw.cc/cc.xml -O pp.xml || { echo "Failed to download pp.xml"; exit 1; }
-          wget -q https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz -O pp.xml.gz || { echo "Failed to download pp.xml.gz"; exit 1; }
-          
-          # 下载 epg.pw 的 EPG 文件
+          wget -q https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz -O pp.xml.gz || { echo "Failed to download erw.cc epg file"; exit 1; }
+
+          # Downloading epg.pw EPG files
           echo "Downloading epg.pw EPG files..."
-          wget -q https://epg.pw/xmltv/epg_CN.xml -O pw.xml || { echo "Failed to download pw.xml"; exit 1; }
-          wget -q https://epg.pw/xmltv/epg_CN.xml.gz -O pw.xml.gz || { echo "Failed to download pw.xml.gz"; exit 1; }
-          
-          # 验证文件是否下载成功
+          wget -q https://epg.pw/xmltv/epg_CN.xml.gz -O pw.xml.gz || { echo "Failed to download epg.pw epg file"; exit 1; }
+
+      - name: Extract the xml.gz file
+        run: |
+          gunzip -k pp.xml.gz || { echo "Failed to Extract pp.xml.gz file"; exit 1; }
+          gunzip -k pw.xml.gz || { echo "Failed to Extract pw.xml.gz file"; exit 1; }
+
+      - name: Confirm document list
+        run: |
+          echo "Confirm document list..."
           for file in pp.xml pp.xml.gz pw.xml pw.xml.gz; do
             if [ ! -s "$file" ]; then
               echo "Error: $file is empty or not downloaded"
@@ -45,15 +50,13 @@ jobs:
       - name: Commit and push changes
         run: |
           
-          # 配置 Git
+          # Configure Git
           git config --local user.name "GitHub Actions Bot"
           git config --local user.email "actions@github.com"
           
-          # 提交变更
+          # Commit changes
           git add pp.xml pp.xml.gz pw.xml pw.xml.gz
           git commit -m "chore: auto sync EPG files [skip ci]"
           
-          # 推送变更
+          # Push changes
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
