@@ -945,7 +945,7 @@
 <display-name lang="zh">CCTV9</display-name>
 </channel>
 <programme start="20260214000000 +0800" stop="20260214003100 +0800" channel="10">
-<title lang="zh">猴子乔治历险记</title>
+<title lang="zh">开始</title>
 </programme>
 <programme start="20260214003100 +0800" stop="20260214012700 +0800" channel="10">
 <title lang="zh">幼豹启蒙</title>
@@ -4869,7 +4869,7 @@
 <display-name lang="zh">山东卫视</display-name>
 </channel>
 <programme start="20260214000000 +0800" stop="20260214002400 +0800" channel="89">
-<title lang="zh">精彩呈现</title>
+<title lang="zh">大染坊24</title>
 </programme>
 <programme start="20260214002400 +0800" stop="20260214013300 +0800" channel="89">
 <title lang="zh">行进中国</title>
@@ -6248,12 +6248,6 @@
 <programme start="20260214080500 +0800" stop="20260214083600 +0800" channel="99">
 <title lang="zh">纪录30分马家窑彩陶上的中国(3)</title>
 </programme>
-<programme start="20260214083600 +0800" stop="20260214090700 +0800" channel="99">
-<title lang="zh">新白娘子传奇(45)</title>
-</programme>
-<programme start="20260214090700 +0800" stop="20260214094000 +0800" channel="99">
-<title lang="zh">新白娘子传奇(46)</title>
-</programme>
 <programme start="20260214094000 +0800" stop="20260214101400 +0800" channel="99">
 <title lang="zh">新白娘子传奇(47)</title>
 </programme>
@@ -6339,7 +6333,7 @@
 <title lang="zh">丝路大讲堂</title>
 </programme>
 <programme start="20260214215900 +0800" stop="20260214223000 +0800" channel="99">
-<title lang="zh">大戏台(1)</title>
+<title lang="zh">大戏台</title>
 </programme>
 <programme start="20260214223000 +0800" stop="20260214230000 +0800" channel="99">
 <title lang="zh">甘肃新闻</title>
