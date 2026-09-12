@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv.ivow.win/pp.xml"
+#EXTINF:-1 tvg-id="1" tag-name="CCTV1" tvg-logo="https://iptv.ivow.win/logo/CCTV1.png" group-title="央视频道",CCTV1
+http://111.20.33.93/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="2" tag-name="CCTV2" tvg-logo="https://iptv.ivow.win/logo/CCTV2.png" group-title="央视频道",CCTV2
 http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="3" tag-name="CCTV3" tvg-logo="https://iptv.ivow.win/logo/CCTV3.png" group-title="央视频道",CCTV3
@@ -10,7 +12,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="6" tag-name="CCTV5+" tvg-logo="https://iptv.ivow.win/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://111.20.33.70/PLTV/88888893/224/3221227110/index.m3u8
 #EXTINF:-1 tvg-id="7" tag-name="CCTV6" tvg-logo="https://iptv.ivow.win/logo/CCTV6.png" group-title="央视频道",CCTV6
-http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-id="8" tag-name="CCTV7" tvg-logo="https://iptv.ivow.win/logo/CCTV7.png" group-title="央视频道",CCTV7
 http://111.20.33.70/PLTV/88888893/224/3221226192/index.m3u8
 #EXTINF:-1 tvg-id="9" tag-name="CCTV8" tvg-logo="https://iptv.ivow.win/logo/CCTV8.png" group-title="央视频道",CCTV8
@@ -28,11 +30,11 @@ http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="15" tag-name="CCTV14" tvg-logo="https://iptv.ivow.win/logo/CCTV14.png" group-title="央视频道",CCTV14
 http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="17" tag-name="CCTV16" tvg-logo="https://iptv.ivow.win/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://111.20.33.70/PLTV/88888893/224/3221226012/index.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="18" tag-name="CCTV17" tvg-logo="https://iptv.ivow.win/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="26" tag-name="CCTV4K" tvg-logo="https://iptv.ivow.win/logo/CCTV4K.png" group-title="央视频道",CCTV4K
-http://111.20.33.70/PLTV/88888893/224/3221227140/index.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="180" tag-name="CHC动作电影" tvg-logo="https://iptv.ivow.win/logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="181" tag-name="CHC家庭影院" tvg-logo="https://iptv.ivow.win/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
@@ -40,9 +42,21 @@ http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="182" tag-name="CHC影迷电影" tvg-logo="https://iptv.ivow.win/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="90" tag-name="北京卫视" tvg-logo="https://iptv.ivow.win/logo/北京卫视.png" group-title="卫视频道",北京卫视4K
-http://111.20.33.70/PLTV/88888893/224/3221227112/index.m3u8
+http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://iptv.ivow.win/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://iptv.ivow.win/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://iptv.ivow.win/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://iptv.ivow.win/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-id="87" tag-name="安徽卫视" tvg-logo="https://iptv.ivow.win/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://111.20.33.70/PLTV/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://iptv.ivow.win/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://iptv.ivow.win/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://111.20.33.93/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="86" tag-name="辽宁卫视" tvg-logo="https://iptv.ivow.win/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="84" tag-name="天津卫视" tvg-logo="https://iptv.ivow.win/logo/天津卫视.png" group-title="卫视频道",天津卫视
@@ -107,21 +121,21 @@ http://111.20.33.70/PLTV/88888893/224/3221226984/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221227146/index.m3u8
 #EXTINF:-1 tvg-id="436" tag-name="电视指南" tvg-logo="https://iptv.ivow.win/logo/电视指南.png" group-title="央视其他",CCTV电视指南
 http://111.20.33.70/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="凤凰频道",凤凰中文台
+#EXTINF:-1 tvg-id="193" tag-name="凤凰中文" tvg-logo="https://iptv.ivow.win/logo/凤凰卫视中文台.png" group-title="凤凰频道",凤凰中文台
 http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="凤凰频道",凤凰资讯台
+#EXTINF:-1 tvg-id="194" tag-name="凤凰资讯" tvg-logo="https://iptv.ivow.win/logo/凤凰卫视资讯台.png" group-title="凤凰频道",凤凰资讯台
 http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西省台",陕西新闻资讯
+#EXTINF:-1 tvg-id="256" tag-name="陕西新闻资讯" tvg-logo="https://iptv.ivow.win/logo/陕西新闻资讯.png" group-title="陕西省台",陕西新闻资讯
 http://111.20.33.70/PLTV/88888893/224/3221226357/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西省台",陕西都市青春
+#EXTINF:-1 tvg-id="257" tag-name="陕西都市青春" tvg-logo="https://iptv.ivow.win/logo/陕西都市青春.png" group-title="陕西省台",陕西都市青春
 http://111.20.33.70/PLTV/88888893/224/3221226358/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西省台",陕西银龄
+#EXTINF:-1 tvg-id="258" tag-name="陕西银龄" tvg-logo="https://iptv.ivow.win/logo/陕西银龄.png" group-title="陕西省台",陕西银龄
 http://111.20.33.70/PLTV/88888893/224/3221226359/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西省台",陕西秦腔
+#EXTINF:-1 tvg-id="259" tag-name="陕西秦腔" tvg-logo="https://iptv.ivow.win/logo/陕西秦腔.png" group-title="陕西省台",陕西秦腔
 http://111.20.33.70/PLTV/88888893/224/3221226361/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西省台",陕西体育休闲
+#EXTINF:-1 tvg-id="260" tag-name="陕西体育休闲" tvg-logo="https://iptv.ivow.win/logo/陕西体育休闲.png" group-title="陕西省台",陕西体育休闲
 http://111.20.33.70/PLTV/88888893/224/3221226363/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西省台",陕西西部电影
+#EXTINF:-1 tvg-id="" tag-name="陕西西部电影" tvg-logo="https://iptv.ivow.win/logo/陕西西部电影.png" group-title="陕西省台",陕西西部电影
 http://111.20.33.70/PLTV/88888893/224/3221226364/index.m3u8
 #EXTINF:-1 tvg-id="22" tag-name="CGTN法语" tvg-logo="https://iptv.ivow.win/logo/CGTN法语.png" group-title="CGTN",CGTN法语
 http://111.20.33.70/PLTV/88888893/224/3221227058/index.m3u8
@@ -133,35 +147,35 @@ http://111.20.33.70/PLTV/88888893/224/3221227078/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221227095/index.m3u8
 #EXTINF:-1 tvg-id="29" tag-name="CGTN纪录" tvg-logo="https://iptv.ivow.win/logo/CGTN纪录.png" group-title="CGTN",CGTN纪录
 http://111.20.33.70/PLTV/88888893/224/3221227084/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",西安新闻综合
+#EXTINF:-1 tvg-id="474" tag-name="西安新闻综合" tvg-logo="https://iptv.ivow.win/logo/西安新闻综合.png" group-title="陕西市县",西安新闻综合
 http://111.20.33.70/PLTV/88888893/224/3221226366/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",咸阳综合频道
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/咸阳.png" group-title="陕西市县",咸阳综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226372/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",宝鸡综合频道
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/宝鸡.png" group-title="陕西市县",宝鸡综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226383/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",渭南新闻综合
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/渭南.png" group-title="陕西市县",渭南新闻综合
 http://111.20.33.70/PLTV/88888893/224/3221226376/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",榆林综合频道
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/榆林.png" group-title="陕西市县",榆林综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226377/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",安康综合频道
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/安康.png" group-title="陕西市县",安康综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226385/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",商洛综合频道
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/商洛.png" group-title="陕西市县",商洛综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226378/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",汉中综合频道
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/汉中.png" group-title="陕西市县",汉中综合频道
 http://111.20.33.70/PLTV/88888893/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",城固
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/城固.png" group-title="陕西市县",城固
 http://111.20.33.70/PLTV/88888893/224/3221226920/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",洋县
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/洋县.png" group-title="陕西市县",洋县
 http://111.20.33.70/PLTV/88888893/224/3221226938/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",西乡
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/西乡.png" group-title="陕西市县",西乡
 http://111.20.33.70/PLTV/88888893/224/3221226556/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="陕西市县",佛坪
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/佛坪.png" group-title="陕西市县",佛坪
 http://111.20.33.70/PLTV/88888893/224/3221226454/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="其他频道",金鹰纪实
+#EXTINF:-1 tvg-id="169" tag-name="金鹰纪实" tvg-logo="https://iptv.ivow.win/logo/金鹰纪实.png" group-title="其他频道",金鹰纪实
 http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="其他频道",江苏财富天下
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://iptv.ivow.win/logo/财富天下.png" group-title="其他频道",江苏财富天下
 http://111.20.33.70/PLTV/88888893/224/3221227169/index.m3u8
 #EXTINF:-1 tvg-id="173" tag-name="快乐垂钓" tvg-logo="https://iptv.ivow.win/logo/快乐垂钓.png" group-title="其他频道",快乐垂钓
 http://111.20.33.70/PLTV/88888893/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="其他频道",导视
+#EXTINF:-1 tvg-id="" tag-name="爱看导视" tvg-logo="https://iptv.ivow.win/logo/爱看导视.png" group-title="其他频道",爱看导视
 http://111.20.33.70/PLTV/88888893/224/3221226337/index.m3u8
