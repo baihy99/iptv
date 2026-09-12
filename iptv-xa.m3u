@@ -41,7 +41,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="182" tag-name="CHC影迷电影" tvg-logo="https://iptv.ivow.win/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="90" tag-name="北京卫视" tvg-logo="https://iptv.ivow.win/logo/北京卫视.png" group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-id="90" tag-name="北京卫视" tvg-logo="https://iptv.ivow.win/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://iptv.ivow.win/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
