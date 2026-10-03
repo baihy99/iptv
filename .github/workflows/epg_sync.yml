@@ -24,7 +24,7 @@ jobs:
 
           # Downloading erw.cc EPG files
           echo "Downloading erw.cc EPG files..."
-          wget -q https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz -O pp.xml.gz || { echo "Failed to download erw.cc epg file"; exit 1; }
+          wget -q https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz -O pp.xml.gz || { echo "Failed to download erw.cc epg file"; exit 1; }
 
           # Downloading epg.pw EPG files
           echo "Downloading epg.pw EPG files..."
