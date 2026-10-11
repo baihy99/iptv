@@ -2,12 +2,12 @@
 
 ## EPG资源
 
-### EPG源1（141个频道）
+### EPG源1（514个频道）
 - 来源：[https://e.erw.cc/](https://e.erw.cc/)
 - XML格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml](https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml)
 - GZ格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml.gz](https://raw.githubusercontent.com/baihy99/iptv/main/pp.xml.gz)
 
-### EPG源2（188个频道）
+### EPG源2（705个频道）
 - 来源：[https://epg.pw/](https://epg.pw/)
 - XML格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml](https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml)
 - GZ格式：[https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml.gz](https://raw.githubusercontent.com/baihy99/iptv/main/pw.xml.gz)
@@ -16,37 +16,37 @@
 
 ### EPG源1频道列表
 
-| 序号 | channel-id | channel-name | tv-logo |
-|:---:|:-------------------:|:---------------------:|:-----------------------:|
-| 1 | 1 | CCTV1 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV1.png |
-| 2 | 2 | CCTV2 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV2.png |
-| 3 | 3 | CCTV3 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV3.png |
-| 4 | 4 | CCTV4 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV4.png |
-| 5 | 5 | CCTV5 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5.png |
-| 6 | 6 | CCTV5+ | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5+.png |
-| 7 | 7 | CCTV6 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV6.png |
-| 8 | 8 | CCTV7 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV7.png |
-| 9 | 9 | CCTV8 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV8.png |
-| 10 | 10 | CCTV9 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV9.png |
+| 序号	| 频道名称	| tvg-id	| tvg-name	| group-title	| tvg-logo |
+|:----:|:---------:|:---------:|:---------:|:-------------:|:--------:|
+| 1	| CCTV1	| 1	| CCTV1	| 央视频道	| CCTV1.png |
+| 2	| CCTV2	| 2	| CCTV2	| 央视频道	| CCTV2.png |
+| 3	| CCTV3	| 3	| CCTV3	| 央视频道	| CCTV3.png |
+| 4	| CCTV4	| 4	| CCTV4	| 央视频道	| CCTV4.png |
+| 5	| CCTV5	| 5	| CCTV5	| 央视频道	| CCTV5.png |
+| 6	| CCTV5+	| 6	| CCTV5+	| 央视频道	| CCTV5+.png |
+| 7	| CCTV6	| 7	| CCTV6	| 央视频道	| CCTV6.png |
+| 8	| CCTV7	| 8	| CCTV7	| 央视频道	| CCTV7.png |
+| 9	| CCTV8	| 9	| CCTV8	| 央视频道	| CCTV8.png |
+| 10	| CCTV9	| 10	| CCTV9	| 央视频道	| CCTV9.png |
 
-[查看EPG源1完整频道列表 →](html/channel-list-1.md)
+[查看EPG源1完整频道列表 →](html/ChannelList1.md)
 
 ### EPG源2频道列表
 
-| 序号 | channel-id | channel-name | tv-logo |
-|:---:|:-------------------:|:---------------------:|:-----------------------:|
-| 1 | 378819 | CCTV1 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV1.png |
-| 2 | 378820 | CCTV2 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV2.png |
-| 3 | 378821 | CCTV3 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV3.png |
-| 4 | 378822 | CCTV4 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV4.png |
-| 5 | 378823 | CCTV5 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5.png |
-| 6 | 378824 | CCTV5+ | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV5+.png |
-| 7 | 378825 | CCTV6 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV6.png |
-| 8 | 378826 | CCTV7 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV7.png |
-| 9 | 378827 | CCTV8 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV8.png |
-| 10 | 378828 | CCTV9 | https://raw.githubusercontent.com/baihy99/iptv/main/logo/CCTV9.png |
+| 序号	| 频道名称	| tvg-id	| tvg-name	| group-title	| tvg-logo |
+|:----:|:---------:|:---------:|:---------:|:-------------:|:--------:|
+| 1	| CCTV1	| 545932	| CCTV-1 综合	| 央视频道	| CCTV1.png |
+| 2	| CCTV1	| 561309	| CCTV1	| 央视频道	| CCTV1.png |
+| 3	| CCTV1	| 572136	| CCTV-1综合	| 央视频道	| CCTV1.png |
+| 4	| CCTV1	| 572141	| CCTV-1（高清）	| 央视频道	| CCTV1.png |
+| 5	| CCTV2	| 545933	| CCTV-2 财经	| 央视频道	| CCTV2.png |
+| 6	| CCTV2	| 561310	| CCTV2	| 央视频道	| CCTV2.png |
+| 7	| CCTV2	| 572130	| CCTV-2财经	| 央视频道	| CCTV2.png |
+| 8	| CCTV2	| 572147	| CCTV-2（高清）	| 央视频道	| CCTV2.png |
+| 9	| CCTV3	| 545934	| CCTV-3 综艺	| 央视频道	| CCTV3.png |
+| 10	| CCTV3	| 561311	| CCTV3	| 央视频道	| CCTV3.png |
 
-[查看EPG源2完整频道列表 →](html/channel-list-2.md)
+[查看EPG源2完整频道列表 →](html/ChannelList2.md)
 
 ## 直播源收集
 
