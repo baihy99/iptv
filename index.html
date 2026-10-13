@@ -35,11 +35,20 @@
             background-color: #f9f9f9;
         }
         td img {
-            height: 30px;
+            max-width: 64px;
+            max-height: 32px;
         }
-        .logo {
-            margin: auto;
-            padding: 2px;
+        col.num {
+            width: 8%;
+        }
+        col.logo {
+            width: 10%;
+        }
+        col.tb {
+            width: 15%;
+        }
+        td.logo {
+            padding: 2px 0;
             background-color: dimgrey;
             color: #f5f5f5;
         }
@@ -94,6 +103,15 @@
         <h2>EPG频道列表</h2>
         <h3>EPG源1频道列表</h3>
         <table>
+            <colgroup>
+                <col class="num">
+                <col class="logo">
+                <col class="tb">
+                <col class="tb">
+                <col class="tb">
+                <col class="tb">
+                <col class="tb">
+            </colgroup>
             <tr>
                 <th>序号</th>
                 <th>台标</th>
